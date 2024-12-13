@@ -1,0 +1,1 @@
+This repository demonstrates a common Docker build error caused by issues with the application dependencies or code. The original Dockerfile contains a problem that prevents successful building. The solution demonstrates how to fix the error.  The app.py file is a simple python script used for this example, and requirements.txt lists any needed dependencies.
